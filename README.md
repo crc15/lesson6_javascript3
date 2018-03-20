@@ -10,14 +10,13 @@ March 23,2018
 Caroline Cayll
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we had to create a functioning photo gallery. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/crc15/lesson6_javascript3 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to access elements by id, tag name, class, name or selector
+2. How to access element content, CSS properties, and attributes
+3. How to add and remove document nodes
 # lesson6_javascript3
