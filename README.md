@@ -13,7 +13,7 @@ Caroline Cayll
 In this project, we had to create a functioning photo gallery. 
 
 ### View Project:
-https://github.com/crc15/lesson6_javascript3 
+https://crc15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to access elements by id, tag name, class, name or selector
